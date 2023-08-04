@@ -1,4 +1,15 @@
-# Using format... 
+'''a=int(input("Enter A:"))
+b=int(input("Enter B:"))
+
+
+if a<b:
+    print("A is min")
+elif a>b:
+    print("A is max")
+elif a==b:
+    print("both are equal...")'''
+
+
 
 
 id=1
