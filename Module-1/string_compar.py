@@ -7,12 +7,20 @@ if fnm.isupper() and lnm.isupper():
     email=input("Enter an email:")
     mobile=input("Enter a mobile number:")
 
-    if email.islower() and mobile.isdigit():
+    length=len(mobile)
+    if len(mobile)==10:
+     
+
+     if email.islower() and mobile.isdigit():
         print("Firsname:",fnm)
         print("Lastname:",lnm)
         print("Email:",email)
         print("Mobile:",mobile)
-    else:
+     else:
         print("Error! Plz input valid email address or mobile")
+
+    else:
+     print("Not Valid, Please enter only 10 digit..")
+
 else:
     print("Error!Plz input proper details!")

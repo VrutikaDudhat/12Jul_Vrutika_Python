@@ -1,4 +1,4 @@
-'''a=int(input("Enter A:"))
+a=int(input("Enter A:"))
 b=int(input("Enter B:"))
 
 
@@ -7,7 +7,7 @@ if a<b:
 elif a>b:
     print("A is max")
 elif a==b:
-    print("both are equal...")'''
+    print("both are equal...")
 
 
 
