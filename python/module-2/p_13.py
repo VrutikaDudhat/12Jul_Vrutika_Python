@@ -14,12 +14,10 @@ for i,j in x.items():
         print(f"{i}:{j}")        
 
 
-
-
 # ------------------------------------- #
 
 
-        """string = input("Enter String :")
+"""string = input("Enter String :")
 substring = input("Enter the count string :")
 
 count = string.count(substring)
