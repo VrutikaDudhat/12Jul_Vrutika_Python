@@ -4,5 +4,4 @@ def getdata(data):
     print("Subject:",data[2])
     print("City:",data[3])
 
-
 getdata([101,'vrutika','python','Rajkot']) #list argument

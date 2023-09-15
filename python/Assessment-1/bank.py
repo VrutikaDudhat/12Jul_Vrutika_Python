@@ -9,8 +9,7 @@ print(" ")
 
 display=input("Choose your Role :")
 if display=='1':
-    role()
-   
+    role()  
 
 a=input("Enter operation which you want to perform :")
 if a=='1':
@@ -20,25 +19,6 @@ if a=='1':
 elif a=='2':
     print("View Customer...")
     view()
-#open()
-#role()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # ----------------------------------------------------- #
 

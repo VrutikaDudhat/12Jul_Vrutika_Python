@@ -5,5 +5,5 @@ def getdata(id,name,sub='Python',city='Rajkot'):
     print("City:",city)
 
 
-#getdata(101,'Sanket')
-getdata(101,'Sanket','JAVA') 
+#getdata(101,'Vrutika')
+getdata(101,'Vrutika','JAVA') 

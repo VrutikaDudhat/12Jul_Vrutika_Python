@@ -1,8 +1,6 @@
 city=[]
 
 n=int(input("Enter number of city:"))
-
-
 for i in range(n):
     x=input("Enter your city:")
     city.append(x)
@@ -10,14 +8,12 @@ for i in range(n):
 
 print(city)
 
-
 # ------------------------------ #
 
 '''city=[]
 n=int(input("Enter number of city:"))
 
-
-#dynamic list
+ #dynamic list
 for i in range(n):
     x=input("Enter your city:")
     city.append(x)
